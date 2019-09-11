@@ -28,7 +28,7 @@ int main(void)
 	delete_from_list(head,2);
 	print(head);
 	find_size(head);
-	//delete_list(head);
+	delete_list(head);
 	print(head);
 	reverse_list(head);
 	print(head);
