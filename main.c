@@ -1,9 +1,14 @@
-/*
- * main.c
+/***********************************************
+ *  Module:Linked List
  *
- *  Created on: ??þ/??þ/????
- *      Author: Faster
- */
+ *  File Name:main.c
+ *
+ *  Description: main file for resting our application
+ *
+ *  Created on: 11/9/2019
+ *
+ *  Author: AHmed Ekram
+ ***********************************************/
 
 
 #include "linkedlist.h"

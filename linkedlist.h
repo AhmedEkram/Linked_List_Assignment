@@ -1,9 +1,14 @@
-/*
- * linkedlist.h
+/***********************************************
+ *  Module:Linked List
  *
- *  Created on: ??þ/??þ/????
- *      Author: Faster
- */
+ *  File Name:linkedlist.h
+ *
+ *  Description: Linked list typedefs and prototypes
+ *
+ *  Created on: 11/9/2019
+ *
+ *  Author: AHmed Ekram
+ ***********************************************/
 
 #ifndef LINKEDLIST_H_
 #define LINKEDLIST_H_

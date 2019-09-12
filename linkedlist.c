@@ -1,12 +1,22 @@
-/*
- * linkedlist.c
+/***********************************************
+ *  Module:Linked List
  *
- *  Created on: ??þ/??þ/????
- *      Author: Faster
- */
-
+ *  File Name:linkedlist.c
+ *
+ *  Description: Linked list functions
+ *
+ *  Created on: 11/9/2019
+ *
+ *  Author: AHmed Ekram
+ ***********************************************/
+/**************************************************************************
+ * 				            Inclusions									  *
+ *************************************************************************/
 #include "linkedlist.h"
 /*count for counting number of insertions in the linked list*/
+/**************************************************************************
+ * 				            Global variables								  *
+ *************************************************************************/
 static uint8 count=0;
 /**************************************************************************
  * Function Name : createlist

@@ -1,9 +1,14 @@
-/*
- * standard_types.h
+/***********************************************
+ *  Module:Linked List
  *
- *  Created on: ??þ/??þ/????
- *      Author: Faster
- */
+ *  File Name:standard_types.h
+ *
+ *  Description: standard types for variables
+ *
+ *  Created on: 11/9/2019
+ *
+ *  Author: AHmed Ekram
+ ***********************************************/
 
 #ifndef STANDARD_TYPES_H_
 #define STANDARD_TYPES_H_
